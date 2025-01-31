@@ -1,0 +1,18 @@
+In my second year at the university following the bachelors’ degree in computer engineering program at the faculty of engineering and technology of the university of Buea during its first semester, the current one, I have had two courses which have brought me into 
+-The more practical aspects of software engineering: gaining both technical skills through the exposure to numerous software development tools, the latest and most popular; and soft skills such as pitching (public speaking, sharing ideas to an audience so they understand and creation of presentation slides) which we have had a lot on weekly basis. Once every week.
+Here is how the following courses were handled
+1.	Software development tools:
+In this course, we had gotten to do research on different software development tools which we present on every week, one per week. So, in a week, we had to gather as much information on how to use a tool then we demonstrate how each of this tool was used in our project implementation process as every group had chosen amongst themselves a project to implement with these tools.
+Every tool’s utility presented on per week aligned with a step of the software development life cycle. (Brainstorming, Planning and Requirements gathering, Analysis, Design, Implementation, Testing, Deployment, Maintenance but mostly focused on those in bold.
+The course outline is provided in the repository with the different presentation slides
+Creating and collaborating on a team GitHub repository to Project management and planning on a scrum board implementation platform like Taiga then Setting up an appropriate IDE also deployment of web page trials on Git Pages with Setting up a backend with Node.js, Setting up a frontend with React.JS, Database management with my SQL, Linking front end and backend of our project website using rest API, Automated Unit testing using testing frameworks and setting up automated testing pipelines using GitHub Actions and finally cloud deployment using Docker
+2.	Analysis and Design of IS
+In this course, we are learning how to practically go about implementing the analysis and design steps of the software development process.
+We were assigned projects as groups and my group project was the analysis and design of a hotel management information system
+We created reports for group meetings and this helped me in documenting the contributions and conclusion we made, my team mates and I, and activities we carried out.
+During this course in other to better understand and accomplish some tasks, I had to take courses on
+-	Data analytics: I learned about the different techniques to analyze data, the importance of gathering data, how to clean, catergorise and store data acquired. How to use data analytical tools like Excel, Data management tools like SQL and data visualization tools like Tableau
+-	Fundamentals of python programming: A very powerful and flexible tool used in Data science. I got to explore its syntax and applications as well as its modules 
+-	Design driven thinking: In this course, I receive a template and instructions on how to move from the user requirements phase to the design of a given system
+-	Design thinking: Learning about basic design principles like composition, symmetry
+Certification and badges for all of these courses are provided below with the meeting reports
