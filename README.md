@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ... I notice a lot of detail changes in my environment, I love robotics most and my software engineering is to be layed as a solid foundation as I wish to further transition into the Robotics field
 - I love volleyball a lot, I see it as a sport that leverages athletic skills like jumping, running, and shooting all at max level. I like the fact that you are constantly alert as things happen so fast, in milliseconds, on the court. It requires full body strength, perception
    as well as a lot of agility
-- I love robotics because to me it is the pinnacle of machine development and I love machines because they help humans accomplish tedious task with much more ease. How much more when all of that is automated and done with precision, speed and strength humans can equal.
+- I love robotics because to me it is the pinnacle of machine development and I love machines because they help humans accomplish tedious task with much more ease. How much more when all of that is automated and done with precision, speed and strength humans can't equal.
   It is also the reason I want to learn machine learning as this part of software development is really leveraged in the automation field
 - 
 
